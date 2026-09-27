@@ -1,0 +1,18 @@
+# Compilacao Java
+*.class
+*.jar
+hs_err_pid*
+replay_pid*
+
+# IDEs e configuracoes locais
+.idea/
+*.iml
+.vscode/
+out/
+bin/
+build/
+target/
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
